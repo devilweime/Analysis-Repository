@@ -20,7 +20,7 @@ public class IOCTest01 {
         ApplicationContext ctx = new ClassPathXmlApplicationContext("spring/ioc-spring.xml");
         Person person = (Person) ctx.getBean("person");
 
-        ConfigurableListableBeanFactory beanFactory = ((ClassPathXmlApplicationContext) ctx).getBeanFactory();//得到org.springframework.beans.factory.support.DefaultListableBeanFactory
+        /*ConfigurableListableBeanFactory beanFactory = ((ClassPathXmlApplicationContext) ctx).getBeanFactory();//得到org.springframework.beans.factory.support.DefaultListableBeanFactory
         Person person2 = (Person) beanFactory.getBean("person");//得到org.springframework.beans.factory.support.AbstractBeanFactory#getBean(java.lang.String)
 
         AbstractBeanFactory abstractBeanFactory =  (AbstractBeanFactory)beanFactory;
@@ -29,11 +29,11 @@ public class IOCTest01 {
 
         //abstractBeanFactory.mergedBeanDefinitions;// 存放name和BeanDefinition的map
         Map<String,BeanDefinition> mergedBeanDefinitions =(Map<String,BeanDefinition>) ClassUtils.getFieldValueOfParent(abstractBeanFactory, "mergedBeanDefinitions");
-        System.out.println("mergedBeanDefinitions:"+mergedBeanDefinitions);
+        System.out.println("mergedBeanDefinitions:"+mergedBeanDefinitions);*/
 
 
 
 
-        System.out.println("取出的bean"+person2);
+        System.out.println("取出的bean"+person);
     }
 }
