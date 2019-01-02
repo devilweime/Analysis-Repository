@@ -6,7 +6,15 @@
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{3295AE6C-FDD5-4023-8EB1-5093179239E0}" Loaded="No" Name="UML Sequence Diagram_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Resource定位.oom"/>
 		<Model Expanded="Yes" ID="{2ED2E7B5-8A06-4AEF-BFD3-927E3A5C59D9}" Loaded="No" Name="UML Sequence Diagram_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="IOC容器的实例化.oom"/>
-		<Model Expanded="Yes" ID="{3652CDCE-AC30-4585-9310-C4A185C2A9F9}" Name="UML Sequence Diagram_1" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="BeanDefinition载入、解析、注册.oom"/>
+		<Model Expanded="Yes" ID="{3652CDCE-AC30-4585-9310-C4A185C2A9F9}" Loaded="No" Name="UML Sequence Diagram_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="BeanDefinition载入、解析、注册.oom"/>
+		<Model Expanded="Yes" ID="{E9816847-E56C-4B50-851D-32C6C4E5EBE7}" Loaded="No" Name="Conceptual Data_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="file:///C|/Users/wgw/Desktop/草稿/Conceptual Data_1.cdm"/>
+		<Model Expanded="Yes" ID="{E9816847-E56C-4B50-851D-32C6C4E5EBE7}" Loaded="No" Name="Conceptual Data_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="file:///C|/Users/wgw/Desktop/草稿/Conceptual Data_1.cdm"/>
+		<Model Expanded="Yes" ID="{4EFB74C0-24FB-459C-A5D6-149D6B94A9F1}" Name="Conceptual Data_02" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="file:///C|/Users/wgw/Desktop/草稿/Conceptual Data_02.cdm"/>
+		<Model Expanded="Yes" ID="{1E3F50D9-F15C-4E70-BE62-FD33A9F809F4}" Name="phyData_02" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="file:///C|/Users/wgw/Desktop/草稿/phyData_02.pdm"/>
+		<Model Expanded="Yes" ID="{E9816847-E56C-4B50-851D-32C6C4E5EBE7}" Loaded="No" Name="Conceptual Data_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="file:///C|/Users/wgw/Desktop/草稿/Conceptual Data_1.cdm"/>
+		<Model Expanded="Yes" ID="{2B62A4C6-0183-4A6B-977D-6C2852B46F49}" Loaded="No" Name="Conceptual Data_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="file:///C|/Users/wgw/Desktop/草稿/Conceptual Data_2.cdm"/>
+		<Model Expanded="Yes" ID="{64CA75DC-45C6-446C-A96C-5376C28706F6}" Loaded="No" Name="physic Data_3" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="file:///C|/Users/wgw/Desktop/草稿/physic Data_3.pdm"/>
+		<Model Expanded="Yes" ID="{E9816847-E56C-4B50-851D-32C6C4E5EBE7}" Name="Conceptual Data_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="file:///C|/Users/wgw/Desktop/草稿/Conceptual Data_1.cdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
